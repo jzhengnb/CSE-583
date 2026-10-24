@@ -218,3 +218,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Ignore bicycle dataset
+hw1/src/hw1_data_analysis/bicycle_data.csv
